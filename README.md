@@ -1,2 +1,1 @@
-# QueryMaker
-Módulo que permite conectar em um Banco e no GS
+Módulo que permite conectar em um Banco qualquer e no GS
